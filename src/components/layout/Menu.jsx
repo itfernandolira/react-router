@@ -18,6 +18,9 @@ const Menu = () => (
                 <li>
                     <Link to={"/about"}>About</Link>
                 </li>
+                <li>
+                    <Link to={"/naoexiste"}>Don't exist</Link>
+                </li>
             </ul>
         </nav>
 
